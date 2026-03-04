@@ -1,4 +1,3 @@
-Awad Alzo'ubi, [12/25/2025 2:16 AM]
 🌐 Internet Service Provider System API
 
 📌 نظرة عامة
@@ -251,3 +250,4 @@ Frontend (Angular / React)
 Name: ِAwad Aloubi
 
 Email: alzoubiawad123@gmail.com
+Code is private due to training program NDA, but architecture details are shared below
